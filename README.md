@@ -1,5 +1,5 @@
-# ProgresBelajarku
-**Depository ini berisi pengalaman belajarku di Dicoding
+# Progres Belajarku
+Depository ini berisi pengalaman belajarku di Dicoding
 
 8 Agustus 2023
 Belajar Dasar Git dengan GitHub. (Progres 100%)
