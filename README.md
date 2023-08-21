@@ -23,7 +23,7 @@ Pengenalan ke Logika Pemrograman (Programming Logic 101). (Progres 100%)
 * Pengenalan Computational Thinking.
 
 21 Agustus 2023
-Belajar Dasar Pemrograman Web. (Progres 18%)
+Belajar Dasar Pemrograman Web. (Progres 40%)
 
 * Belajar Bagaimana Cara Internet Bekerja.
 * Apa itu Website dan Halaman Web.
@@ -32,3 +32,6 @@ Belajar Dasar Pemrograman Web. (Progres 18%)
 * Pengenalan HTML.
 * Anatomi Elemen HTML.
 * Anatomi Dokumen HTML.
+* Pendalaman HTML.
+* Semantic HTML: Mengorganisasikan Halaman Konten.
+* Semantic HTML: Articles, Aside, dan Section.
