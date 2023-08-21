@@ -21,3 +21,11 @@ Pengenalan ke Logika Pemrograman (Programming Logic 101). (Progres 100%)
 * Belajar tentang Apa itu Logika Pemrograman.
 * Apa itu Gerbang Logika.
 * Pengenalan Computational Thinking.
+
+21 Agustus 2023
+Belajar Dasar Pemrograman Web. (Progres 12%)
+
+* Belajar Bagaimana Cara Internet Bekerja.
+* Apa itu Website dan Halaman Web.
+* Pengenalan Web Server.
+* Anatomi Website.
