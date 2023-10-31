@@ -34,5 +34,5 @@ Belajar Dasar Pemrograman Web. (Progres 40%)
 * Anatomi Dokumen HTML.
 * Pendalaman HTML.
 * Semantic HTML: Mengorganisasikan Halaman Konten.
-* submissionn 1
+* submission
 * Semantic HTML: Articles, Aside, dan Section.
