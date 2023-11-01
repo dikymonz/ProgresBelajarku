@@ -84,3 +84,19 @@ Belajar Fundamental Front-End Web Development. (Progres 100%)
 * Bundel dengan Module Bundler
 * Evaluasi Package Manager dan Module Bundler
 * Asynchronous JavaScript Request
+
+
+2 Oktober 2023
+Menjadi Front-End Web Developer Expert (s.d. Aksesibilitas)
+
+
+9 Oktober 2023
+Menjadi Front-End Web Developer Expert (s.d. Progressive Web Apps: Pengantar Progressive Web Apps - Menampilkan Konten dari API)
+
+
+16 Oktober 2023
+Menjadi Front-End Web Developer Expert (s.d. Progressive Web Apps: Web App Manifest - Latihan Implementasi Service Worker dengan Workbox)
+
+
+23 Oktober 2023
+Menjadi Front-End Web Developer Expert (s.d. Progressive Web Apps: Workbox - Submission: Katalog Restoran + PWA)
