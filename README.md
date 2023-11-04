@@ -100,3 +100,10 @@ Menjadi Front-End Web Developer Expert (s.d. Progressive Web Apps: Web App Manif
 
 23 Oktober 2023
 Menjadi Front-End Web Developer Expert (s.d. Progressive Web Apps: Workbox - Submission: Katalog Restoran + PWA)
+
+
+30 Oktober 2023
+Menjadi Front-End Web Developer Expert (s.d. Automation Testing)
+
+6 November 2023
+Menjadi Front-End Web Developer Expert (s.d. Deployment dengan CI/CD)
