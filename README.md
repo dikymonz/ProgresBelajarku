@@ -107,3 +107,7 @@ Menjadi Front-End Web Developer Expert (s.d. Automation Testing)
 
 6 November 2023
 Menjadi Front-End Web Developer Expert (s.d. Deployment dengan CI/CD)
+
+
+13 November 2023
+Menjadi Front-End Web Developer Expert (s.d. Selesai)
